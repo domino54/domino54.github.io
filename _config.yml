@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         rdiscount
+highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+
+# Setup
+title:            'ShootMania Galaxy'
+tagline:          'A title pack for Nadeo's ShootMania Storm'
+baseurl:          '/'
+
+author:
+  name:           'Dommy'
+  url:            http://dominolink.aq.pl/
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/domino54/domino54.github.io
+
+gems:
+  - jekyll-sitemap
+
+rdiscount:
+    extensions:
+      - autolink
+      - generate_toc
