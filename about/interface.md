@@ -1,3 +1,8 @@
+---
+layout: default
+title: New interface
+---
+
 # New interface
 Clean, easy and powerful. The game's interface has been greatly improved by adding new features, as well as setting the brand new, clear and modern look, designed to make it easier for newcomers to discover how does the game work.
 
