@@ -1,4 +1,5 @@
 # Dependencies
+markdown:         rdiscount
 highlighter:      pygments
 
 # Permalinks
@@ -17,11 +18,3 @@ version:          2.0.0
 
 github:
   repo:           "https://github.com/domino54/domino54.github.io"
-
-gems:
-  - jekyll-sitemap
-
-rdiscount:
-    extensions:
-      - autolink
-      - generate_toc

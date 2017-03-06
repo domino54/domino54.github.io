@@ -11,7 +11,14 @@ Most important part of the ShootMania interface has been tweaked for a cleaner l
 
 ### Minimap
 The minimap seen in top left corner of the screen is displaying the most important stuff happening near the player. Player is able to find primary objectives of the currently played mode on the minimap. Other players and bots can be seen as colorful dots (opponents are not visible on matchmaking servers). Locations of the weapons items are also revealed. Minimap can be toggled on/off at any time, with a press of the `N` button. In addition, multiple options for customizing the map appearance can be found in main menu's **Settings** tab.
-**Note:** Minimap is not used in Invasion, due high CPU usage.
+
+**Note:** Minimap is not used in Invasion, due huge amount of displayed data and big impact on CPU usage.
 
 ### Crosshair
 New scripted crosshair is not only smaller, cleaner and more compact, but also shows a gauge telling the player exactly how much time is left until the currently used weapon will have at least one slot loaded. You can switch back to default crosshair at any time, with a press of `B` key.
+
+{% highlight xml %}
+
+<a href="./">Hello</a>
+
+{% endhighlight %}
